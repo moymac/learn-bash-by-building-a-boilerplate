@@ -122,3 +122,8 @@ ls --color=auto
 cd ..
 ls --color=auto
 rm background.jpg
+ls --color=auto
+ls --color=auto
+ls --color=auto .
+ls --color=auto -a
+ls --color=auto .
