@@ -127,3 +127,4 @@ ls --color=auto
 ls --color=auto .
 ls --color=auto -a
 ls --color=auto .
+cp header.png images/
