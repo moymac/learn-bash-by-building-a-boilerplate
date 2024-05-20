@@ -112,3 +112,4 @@ touch CoddeRoad.svg
 touch CodeRoad.svg
 rm CoddeRoad.svg
 touch freeCodeCamp.svg
+ls --color=auto
