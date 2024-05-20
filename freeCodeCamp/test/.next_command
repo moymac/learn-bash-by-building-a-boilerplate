@@ -229,3 +229,4 @@ ls --color=auto
 ls --color=auto
 copy --help
 cp --help
+cp -r website-boilerplate/ toms-website
