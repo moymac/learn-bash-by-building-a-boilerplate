@@ -107,3 +107,6 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd website/
 touch CodeAlly.svg
+__vsc_prompt_cmd_original
+touch CoddeRoad.svg
+touch CodeRoad.svg
