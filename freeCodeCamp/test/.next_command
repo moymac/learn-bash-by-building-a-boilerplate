@@ -190,3 +190,4 @@ ls --color=auto
 cd ..
 rmdir images/
 rm images/background.jpg
+rmdir images/
