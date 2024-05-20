@@ -26,3 +26,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 __vsc_prompt_cmd_original
 echo hello terminal
 pwd
+ls --color=auto
