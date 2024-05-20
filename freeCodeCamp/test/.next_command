@@ -235,3 +235,4 @@ find toms-website/
 find website-boilerplate/
 clear
 echo goodbye terminal
+exit
