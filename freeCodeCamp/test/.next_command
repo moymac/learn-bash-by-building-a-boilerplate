@@ -110,3 +110,5 @@ touch CodeAlly.svg
 __vsc_prompt_cmd_original
 touch CoddeRoad.svg
 touch CodeRoad.svg
+rm CoddeRoad.svg
+touch freeCodeCamp.svg
