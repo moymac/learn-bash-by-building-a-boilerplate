@@ -50,3 +50,4 @@ clear
 ls --color=auto .
 cd src/
 pwd
+ls --color=auto
